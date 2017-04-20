@@ -1,4 +1,7 @@
-# test coverage for  [connect-gzip-static (v2.0.1)](https://github.com/pirxpilot/connect-gzip-static#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-connect-gzip-static.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-connect-gzip-static) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-connect-gzip-static.svg)](https://travis-ci.org/npmtest/node-npmtest-connect-gzip-static)
+# npmtest-connect-gzip-static
+
+#### basic test coverage for  [connect-gzip-static (v2.0.1)](https://github.com/pirxpilot/connect-gzip-static#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-connect-gzip-static.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-connect-gzip-static) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-connect-gzip-static.svg)](https://travis-ci.org/npmtest/node-npmtest-connect-gzip-static)
+
 #### gzip/brotli static middleware for connect - serves compressed files if they exist, falls through to connect-static if they don't
 
 [![NPM](https://nodei.co/npm/connect-gzip-static.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/connect-gzip-static)
